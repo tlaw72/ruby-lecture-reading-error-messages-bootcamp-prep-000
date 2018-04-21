@@ -1,3 +1,4 @@
 1 + 1
 
-1 + "hello world"
+
+'eat' + "hello world"
